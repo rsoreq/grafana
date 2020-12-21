@@ -2,7 +2,8 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-    "projectToken" : ""
+    "projectToken" : "",
+    "enableLicenseViolations" : "true"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure"
