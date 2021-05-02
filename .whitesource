@@ -10,5 +10,9 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW"
+  },
+  "remediateSettings": {
+    "enableRenovate": true,
+    "extends": ["config:base"]
   }
 }
