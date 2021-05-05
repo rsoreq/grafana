@@ -13,6 +13,6 @@
   },
   "remediateSettings": {
     "enableRenovate": true,
-    "extends": ["config:base"]
+    "extends": ["github>whitesource/merge-confidence:beta"]
   }
 }
